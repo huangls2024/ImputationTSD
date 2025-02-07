@@ -1,2 +1,2 @@
-id,temperature,coal_consumption,power_plant_electricity_rate,main_steam_temperature,main_steam_pressure,exhaust_gas_temperature,oxygen_content,reheat_steam_temperature,feed_water_temperature,back_pressure,power,power_p
-0,12.99717808,304.4194641,3.944452286,597.9780884,21.35334969,111.9093018,3.94163394,594.9141846,297.1414185,-98.68492889,969.8624268,0
+id,temperature,coal_consumption,main_steam_temperature,main_steam_pressure,exhaust_gas_temperature,oxygen_content,reheat_steam_temperature,feed_water_temperature,back_pressure,power,power_p
+0,12.99717808,304.4194641,597.9780884,21.35334969,111.9093018,3.94163394,594.9141846,297.1414185,-98.68492889,969.8624268,0
